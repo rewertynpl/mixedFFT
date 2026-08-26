@@ -164,3 +164,8 @@ void fun_inverse_table_FFT(int M, std::complex<double> tab[])
     delete [] tab9;
     delete [] tab11;
 }
+ERROR:
+in void fun_fourier_transform_DFT
+delete tab2;
+CORRECT:
+delete [] tab2;
