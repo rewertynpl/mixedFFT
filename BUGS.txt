@@ -1,0 +1,4 @@
+ERROR:
+delete tab2;
+CORRECT:
+delete [] tab2;
