@@ -3,6 +3,8 @@
 
 created: 2017
 
+double (*tab)[10];
+
 author copyright marcin matysek (r)ewertyn.PL
 
 marcin.rewertyn@gmail.com
